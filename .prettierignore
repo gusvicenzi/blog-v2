@@ -1,0 +1,1 @@
+pret{    "editor.defaultFormatter": "esbenp.prettier-vscode",    "[ejs]": {      "editor.defaultFormatter": null    }  }

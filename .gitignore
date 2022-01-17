@@ -1,4 +1,1 @@
-.prettierignore
 node_modules
-app.js
-settings.json
